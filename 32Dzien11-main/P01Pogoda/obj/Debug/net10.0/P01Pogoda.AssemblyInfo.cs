@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P01Pogoda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ccc32b7c40059e730a87c93ec5be76f8bb24a1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6787cfc527b9e2dc1083da4cfb806133eabbd7be")]
 [assembly: System.Reflection.AssemblyProductAttribute("P01Pogoda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P01Pogoda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
